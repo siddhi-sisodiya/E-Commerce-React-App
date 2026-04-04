@@ -129,9 +129,3 @@ It is suitable for:
 
 ## Author
 Siddhi Sisodiya
-
-
-Siddhi Sisodiya
-
-
->>>>>>> dbab52653db5a5c620c69e266d5942f622ebb450
